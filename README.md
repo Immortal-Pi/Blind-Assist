@@ -28,11 +28,8 @@ Allows for hands-free interaction, enhancing usability and accessibility
 ## Useage
 
 ![App Screenshot](https://github.com/Immortal-Pi/Blind-Assist/blob/master/bin/screenshots/2.png)
-
 ![App Screenshot](https://github.com/Immortal-Pi/Blind-Assist/blob/master/bin/screenshots/3.png)
-
 ![App Screenshot](https://github.com/Immortal-Pi/Blind-Assist/blob/master/bin/screenshots/4.png)
-
 ![App Screenshot](https://github.com/Immortal-Pi/Blind-Assist/blob/master/bin/screenshots/5.png)
 
 
