@@ -23,29 +23,29 @@ Allows for hands-free interaction, enhancing usability and accessibility
 
 ## Architecture
 
-![App Screenshot](https://github.com/Immortal-Pi/doc_chat_bot/blob/main/resources/1.png)
+![App Screenshot](https://github.com/Immortal-Pi/Blind-Assist/blob/master/bin/screenshots/1.png)
 
 ## Useage
 
-![App Screenshot](https://github.com/Immortal-Pi/doc_chat_bot/blob/main/resources/1.png)
+![App Screenshot](https://github.com/Immortal-Pi/Blind-Assist/blob/master/bin/screenshots/2.png)
 
-![App Screenshot](https://github.com/Immortal-Pi/doc_chat_bot/blob/main/resources/2.png)
+![App Screenshot](https://github.com/Immortal-Pi/Blind-Assist/blob/master/bin/screenshots/3.png)
 
-![App Screenshot](https://github.com/Immortal-Pi/doc_chat_bot/blob/main/resources/3.png)
+![App Screenshot](https://github.com/Immortal-Pi/Blind-Assist/blob/master/bin/screenshots/4.png)
 
-![App Screenshot](https://github.com/Immortal-Pi/doc_chat_bot/blob/main/resources/4.png)
+![App Screenshot](https://github.com/Immortal-Pi/Blind-Assist/blob/master/bin/screenshots/5.png)
 
 
 ## Key Highlights
 
 compared different CNN algorithms and choose the best algoritm for optimum results. YOLO detection had quite hugh accuracy compared to the other convolutional neural network based algorithms. YOLO could run recognition upto 91 frames per second.
 
-![App Screenshot](https://github.com/Immortal-Pi/doc_chat_bot/blob/main/resources/1.png)
+![App Screenshot](https://github.com/Immortal-Pi/Blind-Assist/blob/master/bin/screenshots/6.png)
 
 
 YOLO could deliver around 8 frames per second, but using the conventional algorithms will allow only 0.5 frames to be processed
 
-![App Screenshot](https://github.com/Immortal-Pi/doc_chat_bot/blob/main/resources/1.png)
+![App Screenshot](https://github.com/Immortal-Pi/Blind-Assist/blob/master/bin/screenshots/7.png)
 ## Tech Stack
 
 **Hardware:** Raspberry Pi (with camera module)
